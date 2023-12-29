@@ -1,0 +1,6 @@
+C:\coding\csharp\CalendarControl\CalendarControl\bin\Release\CalendarControl.dll
+C:\coding\csharp\CalendarControl\CalendarControl\bin\Release\CalendarControl.pdb
+C:\coding\csharp\CalendarControl\CalendarControl\obj\Release\CalendarControl.csproj.AssemblyReference.cache
+C:\coding\csharp\CalendarControl\CalendarControl\obj\Release\CalendarControl.csproj.CoreCompileInputs.cache
+C:\coding\csharp\CalendarControl\CalendarControl\obj\Release\CalendarControl.dll
+C:\coding\csharp\CalendarControl\CalendarControl\obj\Release\CalendarControl.pdb
